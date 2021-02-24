@@ -10,7 +10,7 @@ body{
 
 #cimkep{
   float:left; 
-  height: 150px; 
+  height:150px; 
 }
 
 h1{
@@ -26,12 +26,14 @@ p{
 
 .jobbra{
   text-align: right;
-  
+
 }
 
 .erdekesseg{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  background-color: white;
+  font-style: italic;
 }
 
